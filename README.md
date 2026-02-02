@@ -1,10 +1,11 @@
-![My Banner](assets/ReadmeBanner.jpeg)
+<img src="assets/BannerGIFcropped.gif" width="100%" />
+
 ---
 <h1 align="center">John Michael A. Nave</h1>
 <h3 align="center">Computer Engineering student from Cebu Institute of Technology - University</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFA500&center=true&width=1000&lines=I+am+a+noob+at+programming+(100%25+real);^0^" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFA500&center=true&width=1000&lines=I+am+a+noob+at+programming+(100%25+real);rawr+^0^" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -19,14 +20,13 @@
 
 #
 ![Leetcode Stats](https://leetcode.card.workers.dev/Goldenavsss?theme=dark&font=baloo&extension=null)
-
-#
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenavs&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/><br/> -->
-![](https://github-readme-stats.vercel.app/api?username=Goldenavs&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/><br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Goldenavs&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/><br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=Goldenavs&theme=codeSTACKr&hide_border=true)<br/><br/>
-![](https://github-contributor-stats.vercel.app/api?username=Goldenavs&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+<!--  ![](https://github-contributor-stats.vercel.app/api?username=Goldenavs&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true) -->
 
 #
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 <h6 align="center"> ~ Your limits should always approach infinity, not zero ~ </h6>
+<img src="https://komarev.com/ghpvc/?username=Goldenavs&style=flat-square&color=orange" />
 </div>
