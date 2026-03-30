@@ -80,11 +80,12 @@
 </div>
 
 #
-![Leetcode Stats](https://leetcode.card.workers.dev/Goldenavsss?theme=dark&font=baloo&extension=null)
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/Goldenavsss?theme=dark&font=baloo&extension=null) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Goldenavsss?theme=dark&font=baloo)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldenavs&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/><br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Goldenavs&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/><br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=Goldenavs&theme=codeSTACKr&hide_border=true)
-<!--  ![](https://github-contributor-stats.vercel.app/api?username=Goldenavs&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true) -->
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=Goldenavs&theme=codeSTACKr&hide_border=true) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=Goldenavs&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true) -->
 
 #
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
