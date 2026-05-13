@@ -5,7 +5,7 @@
 <h3 align="center">Computer Engineering student from Cebu Institute of Technology - University</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFA500&center=true&width=1000&lines=hallo!+nice+to+meet+u+<3;rawr+^0^" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFA500&center=true&width=1000&lines=hallo!+nice+to+meet+u+<3;^0^" alt="Typing SVG" />
 </a>
 
 <div align="center">
